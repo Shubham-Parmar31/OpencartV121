@@ -1,4 +1,4 @@
-🛒 E-commerce Automation (Selenium + Java)
+🛒 E-commerce Automation (Selenium + Java) :-
 Automation framework for testing an E-commerce web app using Java, Selenium & TestNG.
 Covers flows like Login, Search, Add to Cart, Checkout, and Order Confirmation.
 
