@@ -12,6 +12,7 @@ TestNG execution & grouping
 HTML/Extent reports with screenshots
 
 🛠 Tech Stack
+
 Java + Selenium WebDriver
 TestNG
 Maven
