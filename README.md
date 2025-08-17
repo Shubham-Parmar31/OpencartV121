@@ -12,19 +12,23 @@ TestNG execution & grouping
 HTML/Extent reports with screenshots
 
 🛠 Tech Stack
-
 Java + Selenium WebDriver
 TestNG
 Maven
-Extent / Allure Reports
+Extent Reports
 
 📂 Project Structure
 
 src/test/java/tests  --> Test Cases
+
 src/main/java/pages  --> Page Objects
+
 src/main/java/utils  --> Utilities
+
 testng.xml           --> TestNG config
+
 pom.xml              --> Maven dependencies
+
 reports/             --> Test reports
 
 How to run project ? 
