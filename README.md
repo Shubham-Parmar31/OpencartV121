@@ -33,6 +33,9 @@ pom.xml              --> Maven dependencies
 reports/             --> Test reports
 
 How to run project ? 
+
 git clone https://github.com/Shubham-Parmar31/OpencartV121.git
+
 cd OpencartV121
+
 mvn clean test
